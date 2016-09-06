@@ -1,8 +1,8 @@
 /* app.js */
 var CLIENT_ID = {
-  google : '59056804332-9ehknlppk0e75rlactki723sbb7ns8a4.apps.googleusercontent.com',
-  yahoo : 'dj0yJmk9ZmFCSDVNbjhLZ0xIJmQ9WVdrOWVHMUVObVpCTjJNbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD05Mw--',
-  microsoft : '0000000048189428'
+  google : '',
+  yahoo : '',
+  microsoft : ''
 };
 
 var REDIRECT_URI = {

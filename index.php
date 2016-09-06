@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Inviter Plugins</title>
+    <title>Inviter Mail</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/animate.css" />
     <link rel="stylesheet" href="css/custom.css" />
@@ -22,7 +22,7 @@
           </li>
         </ul>
       </nav>
-      <h3 class="text-muted">Inviter Plugins</h3>
+      <h3 class="text-muted">Inviter Mail</h3>
     </div>
     <div class="jumbotron">
       <h1>Inviter plugins</h1>
